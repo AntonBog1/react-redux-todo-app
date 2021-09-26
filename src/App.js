@@ -7,7 +7,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>See Our Todos!</h1>
+        <h1>Welcome to the App!</h1>
         <p>
           <Link to="/todos">See my todos!</Link>
         </p>
